@@ -1,0 +1,2 @@
+{"city": "hyderabad", "temp": 19.73, "humidity": 88, "weather": "haze"}
+{"city": "hyderabad", "temp": 21.23, "humidity": 60, "weather": "haze"}
